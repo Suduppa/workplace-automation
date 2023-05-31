@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LeftARM\LeftARM\x64\Debug\LeftARM.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LeftARM\LeftARM\x64\Debug\LeftARM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\LeftARM\LeftARM\x64\Debug\LeftARM.MyForm.resources
+C:\Users\Admin\source\repos\LeftARM\LeftARM\x64\Debug\LeftARM.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LeftARM\LeftARM\x64\Debug\LeftARM.MyForm1.resources
+C:\Users\Одмен\Desktop\arm\LeftARM\x64\Debug\LeftARM.vcxproj.AssemblyReference.cache
+C:\Users\Одмен\Desktop\arm\LeftARM\x64\Debug\LeftARM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Одмен\Desktop\arm\LeftARM\x64\Debug\LeftARM.MyForm.resources
+C:\Users\Одмен\Desktop\arm\LeftARM\x64\Debug\LeftARM.MyForm1.resources
+C:\Users\Одмен\Desktop\arm\LeftARM\x64\Debug\LeftARM.vcxproj.GenerateResource.cache

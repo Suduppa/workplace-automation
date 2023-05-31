@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Одмен\Desktop\arm\LeftARM\MyForm.h(468,38): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LeftARM.vcxproj -> C:\Users\Одмен\Desktop\arm\x64\Debug\LeftARM.exe
